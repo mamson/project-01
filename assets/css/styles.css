@@ -601,6 +601,11 @@ a {
 
 .footer .row-top .favicon {
     margin-top: 40px;
+    cursor: pointer;
+}
+
+.footer .row-top .favicon:nth-child(2) {
+    margin: 0 10px;
 }
 
 .footer .row-behind {
