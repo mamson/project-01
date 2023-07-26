@@ -156,6 +156,19 @@ a {
     align-items: center;
     margin-top: 70px;
 }
+
+.clients .img-logo a {
+    display: flex;
+    align-items: center;
+    padding: 0 42px;
+    height: 90px;
+    border-radius: 12px;
+}
+
+.clients .img-logo a:hover {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+}
+
 /*===========guides=============*/
 .guides {
     padding: 79px 0;
